@@ -1,0 +1,18 @@
+﻿Build started 3/19/2017 6:17:50 PM.
+     1>Project "C:\Users\Rizard\Desktop\people_detection\people_detection\people_detection\people_detection.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Rizard\Downloads\opencv\build\include /IC:\Users\Rizard\Downloads\opencv\build\include\opencv2 /IC:\Users\Rizard\Downloads\opencv\build\include\opencv /Zi /nologo /W0 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"x64\Release\people_detection.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Users\Rizard\Downloads\opencv\build\include /IC:\Users\Rizard\Downloads\opencv\build\include\opencv2 /IC:\Users\Rizard\Downloads\opencv\build\include\opencv /Zi /nologo /W0 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\people_detection.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt people_detection.cpp
+         people_detection.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Rizard\Desktop\people_detection\people_detection\x64\Release\people_detection.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\Users\Rizard\Downloads\opencv\build\x64\vc12\bin /LIBPATH:C:\Users\Rizard\Downloads\opencv\build\x64\vc12\lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib opencv_nonfree2413.lib opencv_objdetect2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_videostab2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Rizard\Desktop\people_detection\people_detection\x64\Release\people_detection.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Rizard\Desktop\people_detection\people_detection\x64\Release\people_detection.lib" /MACHINE:X64 x64\Release\people_detection.obj
+         x64\Release\stdafx.obj
+         Generating code
+         Finished generating code
+         people_detection.vcxproj -> C:\Users\Rizard\Desktop\people_detection\people_detection\x64\Release\people_detection.exe
+     1>Done Building Project "C:\Users\Rizard\Desktop\people_detection\people_detection\people_detection\people_detection.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
